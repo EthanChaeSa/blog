@@ -1,4 +1,4 @@
 baseURL = "http://ethanchaesa.github.io/"
 languageCode = "ko-kr"
 title = "아코의 이야기"
-theme = "hugo-theme-cleanwhite"
+theme = "hugo-theme-tranquilpeak"
