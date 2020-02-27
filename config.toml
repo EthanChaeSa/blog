@@ -1,0 +1,4 @@
+baseURL = "http://ethanchaesa.github.io/"
+languageCode = "en-us"
+title = "Ethan"
+theme = "hugo-theme-cleanwhite"
